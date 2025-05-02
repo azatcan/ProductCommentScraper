@@ -1,3 +1,0 @@
-﻿<Project>
-  <Import Project="..\buildMultiTargeting\ProductCommentScraper.WebAPI.props" />
-</Project>
