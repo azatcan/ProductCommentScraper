@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\azatc\\source\\repos\\ProductCommentScraper\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5A79D8C9-42A0-4392-BF40-781B5D46FBF3}|ProductCommentScraper.WebApp\\ProductCommentScraper.WebApp.csproj|c:\\users\\azatc\\source\\repos\\productcommentscraper\\productcommentscraper.webapp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5A79D8C9-42A0-4392-BF40-781B5D46FBF3}|ProductCommentScraper.WebApp\\ProductCommentScraper.WebApp.csproj|solutionrelative:productcommentscraper.webapp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96423A95-C490-400C-ACDF-D715A9734981}|ProductCommentScraper.Domain\\ProductCommentScraper.Domain.csproj|c:\\users\\azatc\\source\\repos\\productcommentscraper\\productcommentscraper.domain\\entities\\users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96423A95-C490-400C-ACDF-D715A9734981}|ProductCommentScraper.Domain\\ProductCommentScraper.Domain.csproj|solutionrelative:productcommentscraper.domain\\entities\\users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A79D8C9-42A0-4392-BF40-781B5D46FBF3}|ProductCommentScraper.WebApp\\ProductCommentScraper.WebApp.csproj|c:\\users\\azatc\\source\\repos\\productcommentscraper\\productcommentscraper.webapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{5A79D8C9-42A0-4392-BF40-781B5D46FBF3}|ProductCommentScraper.WebApp\\ProductCommentScraper.WebApp.csproj|solutionrelative:productcommentscraper.webapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96423A95-C490-400C-ACDF-D715A9734981}|ProductCommentScraper.Domain\\ProductCommentScraper.Domain.csproj|c:\\users\\azatc\\source\\repos\\productcommentscraper\\productcommentscraper.domain\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96423A95-C490-400C-ACDF-D715A9734981}|ProductCommentScraper.Domain\\ProductCommentScraper.Domain.csproj|solutionrelative:productcommentscraper.domain\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A79D8C9-42A0-4392-BF40-781B5D46FBF3}|ProductCommentScraper.WebApp\\ProductCommentScraper.WebApp.csproj|c:\\users\\azatc\\source\\repos\\productcommentscraper\\productcommentscraper.webapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A79D8C9-42A0-4392-BF40-781B5D46FBF3}|ProductCommentScraper.WebApp\\ProductCommentScraper.WebApp.csproj|solutionrelative:productcommentscraper.webapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 249,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\azatc\\source\\repos\\ProductCommentScraper\\ProductCommentScraper.WebApp\\Program.cs",
+              "RelativeDocumentMoniker": "ProductCommentScraper.WebApp\\Program.cs",
+              "ToolTip": "C:\\Users\\azatc\\source\\repos\\ProductCommentScraper\\ProductCommentScraper.WebApp\\Program.cs",
+              "RelativeToolTip": "ProductCommentScraper.WebApp\\Program.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAQwB8AAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T09:41:42.348Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\azatc\\source\\repos\\ProductCommentScraper\\ProductCommentScraper.Domain\\Entities\\Product.cs",
+              "RelativeDocumentMoniker": "ProductCommentScraper.Domain\\Entities\\Product.cs",
+              "ToolTip": "C:\\Users\\azatc\\source\\repos\\ProductCommentScraper\\ProductCommentScraper.Domain\\Entities\\Product.cs",
+              "RelativeToolTip": "ProductCommentScraper.Domain\\Entities\\Product.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwBMAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-28T15:45:01.545Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\azatc\\source\\repos\\ProductCommentScraper\\ProductCommentScraper.WebApp\\appsettings.json",
+              "RelativeDocumentMoniker": "ProductCommentScraper.WebApp\\appsettings.json",
+              "ToolTip": "C:\\Users\\azatc\\source\\repos\\ProductCommentScraper\\ProductCommentScraper.WebApp\\appsettings.json",
+              "RelativeToolTip": "ProductCommentScraper.WebApp\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-23T09:44:30.812Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Users.cs",
+              "DocumentMoniker": "C:\\Users\\azatc\\source\\repos\\ProductCommentScraper\\ProductCommentScraper.Domain\\Entities\\Users.cs",
+              "RelativeDocumentMoniker": "ProductCommentScraper.Domain\\Entities\\Users.cs",
+              "ToolTip": "C:\\Users\\azatc\\source\\repos\\ProductCommentScraper\\ProductCommentScraper.Domain\\Entities\\Users.cs",
+              "RelativeToolTip": "ProductCommentScraper.Domain\\Entities\\Users.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-23T09:44:11.653Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\azatc\\source\\repos\\ProductCommentScraper\\ProductCommentScraper.WebApp\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "ProductCommentScraper.WebApp\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\azatc\\source\\repos\\ProductCommentScraper\\ProductCommentScraper.WebApp\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "ProductCommentScraper.WebApp\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-23T09:31:11.767Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

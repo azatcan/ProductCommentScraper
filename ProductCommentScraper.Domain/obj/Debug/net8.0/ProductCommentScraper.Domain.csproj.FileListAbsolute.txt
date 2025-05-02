@@ -1,0 +1,12 @@
+C:\Users\azatc\source\repos\ProductCommentScraper\ProductCommentScraper.Domain\bin\Debug\net8.0\ProductCommentScraper.Domain.deps.json
+C:\Users\azatc\source\repos\ProductCommentScraper\ProductCommentScraper.Domain\bin\Debug\net8.0\ProductCommentScraper.Domain.dll
+C:\Users\azatc\source\repos\ProductCommentScraper\ProductCommentScraper.Domain\bin\Debug\net8.0\ProductCommentScraper.Domain.pdb
+C:\Users\azatc\source\repos\ProductCommentScraper\ProductCommentScraper.Domain\obj\Debug\net8.0\ProductCommentScraper.Domain.csproj.AssemblyReference.cache
+C:\Users\azatc\source\repos\ProductCommentScraper\ProductCommentScraper.Domain\obj\Debug\net8.0\ProductCommentScraper.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\azatc\source\repos\ProductCommentScraper\ProductCommentScraper.Domain\obj\Debug\net8.0\ProductCommentScraper.Domain.AssemblyInfoInputs.cache
+C:\Users\azatc\source\repos\ProductCommentScraper\ProductCommentScraper.Domain\obj\Debug\net8.0\ProductCommentScraper.Domain.AssemblyInfo.cs
+C:\Users\azatc\source\repos\ProductCommentScraper\ProductCommentScraper.Domain\obj\Debug\net8.0\ProductCommentScraper.Domain.csproj.CoreCompileInputs.cache
+C:\Users\azatc\source\repos\ProductCommentScraper\ProductCommentScraper.Domain\obj\Debug\net8.0\ProductCommentScraper.Domain.dll
+C:\Users\azatc\source\repos\ProductCommentScraper\ProductCommentScraper.Domain\obj\Debug\net8.0\refint\ProductCommentScraper.Domain.dll
+C:\Users\azatc\source\repos\ProductCommentScraper\ProductCommentScraper.Domain\obj\Debug\net8.0\ProductCommentScraper.Domain.pdb
+C:\Users\azatc\source\repos\ProductCommentScraper\ProductCommentScraper.Domain\obj\Debug\net8.0\ref\ProductCommentScraper.Domain.dll
